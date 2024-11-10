@@ -165,7 +165,7 @@ Ensure that both the frontend and backend are correctly configured to communicat
 
 3. **Access the Application:**
 
-    Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/) to use the Financial Dashboard.
+    Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/) to use the Financial Dashboard. Go to register and create username & password. After that login.
 
 ---
 
